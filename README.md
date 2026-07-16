@@ -1,49 +1,91 @@
-<h2 align="left">Hello There 👋! My name is Saanvi Sharma and I'm a Software Developer and UI/UX Designer</h2>
-
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0a0a0a,1a1a1a&height=200&section=header&text=SAANVI%20SHARMA&fontSize=70&fontColor=00fff0&fontAlignY=40&desc=Building%20at%20the%20intersection%20of%20AI%20&%20Design&descSize=18&descColor=39ff14&descAlignY=65" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=confusedjpeg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=confusedjpeg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00fff0&center=true&vCenter=true&width=600&lines=>+software_developer.init()%3B+> ui_ux_designer.init()%3B+> ai_enthusiast.compile()%3B+> building_cool_things...%3B" alt="Typing SVG" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/18/91/90/18919014ca5c6abb568f408415944368.jpg"  />
+```bash
+> whoami
+```
 
-###
+Software Developer & UI/UX Designer with a passion for building intelligent systems and crafting intuitive user experiences. Currently exploring the intersection of AI, healthcare, and creative technology.
+
+```bash
+> cat skills.txt
+```
+
+**Languages & Frameworks**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
+</div>
+
+**AI & Backend**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/00fff0" height="40" alt="langchain" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/openai/39ff14" height="40" alt="openai" />
+</div>
+
+**Tools & Design**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+</div>
+
+```bash
+> ls projects/
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=confusedjpeg&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=confusedjpeg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+```bash
+> connect --social
+```
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <a href="https://www.linkedin.com/in/saanvi-sharma-b12a27251/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00fff0&logoColor=0a0a0a&labelColor=0a0a0a&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+  <a href="mailto:saanvi@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=39ff14&logoColor=0a0a0a&labelColor=0a0a0a&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=00fff0&logoColor=0a0a0a&labelColor=0a0a0a&style=for-the-badge" height="35" alt="discord" />
+  </a>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/confusedjpeg/confusedjpeg/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/confusedjpeg/confusedjpeg/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a1a1a,0a0a0a&height=50&section=footer" width="100%" />
+</div>

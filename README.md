@@ -33,9 +33,9 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=confusedjpeg&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=00ff00&text_color=00ffff&icon_color=00ff00&border_color=00ff00&ring_color=00ff00&border_radius=10&custom_title=%3E%20cat%20/proc/stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=confusedjpeg&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=00ff00&text_color=00ffff&icon_color=00ff00&border_color=00ff00&ring_color=00ff00&border_radius=10" height="175" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=confusedjpeg&layout=compact&langs_count=6&bg_color=0a0a0f&title_color=00ff00&text_color=00ffff&icon_color=00ff00&border_color=00ff00&border_radius=10&custom_title=%3E%20cat%20/proc/langs" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=confusedjpeg&layout=compact&langs_count=6&bg_color=0a0a0f&title_color=00ff00&text_color=00ffff&icon_color=00ff00&border_color=00ff00&border_radius=10" height="175" />
 
 </div>
 
@@ -62,17 +62,17 @@
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp" title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" title="C#" />
 
 <br /><br />
 
@@ -80,25 +80,25 @@
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="pytorch" title="PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" title="PyTorch" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="tensorflow" title="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?message=LangChain&color=00ff00&label=&style=flat-square&logoColor=00ff00" height="28" />
+<img src="https://img.shields.io/static/v1?message=LangChain&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=LangGraph&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=LangGraph&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=RAG&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=RAG&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=NLP&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=NLP&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=Deep+Learning&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=Deep+Learning&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=GNN+(GCN/GAT)&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=GNN+(GCN/GAT)&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=Scikit-Learn&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=Scikit-Learn&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=Knowledge+Graphs&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=Knowledge+Graphs&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 
 <br /><br />
 
@@ -106,17 +106,17 @@
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="sqlite" title="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" title="SQLite" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?message=Neo4j&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=Neo4j&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;
-<img src="https://img.shields.io/static/v1?message=Supabase&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=Supabase&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 
 <br /><br />
 
@@ -124,13 +124,13 @@
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="fastapi" title="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" title="FastAPI" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?message=PyQt&color=00ff00&label=&style=flat-square" height="28" />
+<img src="https://img.shields.io/static/v1?message=PyQt&color=0a0a0f&labelColor=0a0a0f&label=&style=flat-square" height="26" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
 
 </div>
 
@@ -149,13 +149,72 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
+</div>
+
 <br />
 
-<span style="color:#00ffff;">
-<i>$ scroll down to see pinned repositories ▾</i>
-</span>
+<table align="center">
+<tr>
+<td width="50%">
 
-</div>
+### <span style="color:#00ff00">🔬</span> [BioVision-CellSegmenter](https://github.com/confusedjpeg/BioVision-CellSegmenter)
+
+Cell segmentation tool for biological image analysis
+
+<span style="color:#00ffff;">HTML</span>
+
+</td>
+<td width="50%">
+
+### <span style="color:#00ff00">🎹</span> [amt-piano-visualizer](https://github.com/confusedjpeg/amt-piano-visualizer)
+
+Automatic music transcription &amp; piano MIDI visualizer
+
+<span style="color:#00ffff;">Python</span> · ★ 1
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <span style="color:#00ff00">💊</span> [Auto_Presc_Module](https://github.com/confusedjpeg/Auto_Presc_Module)
+
+AI prescription system using RAG + knowledge graphs
+
+<span style="color:#00ffff;">Python · TensorFlow · Neo4j</span>
+
+</td>
+<td width="50%">
+
+### <span style="color:#00ff00">🎓</span> [Cascade-GenAI-Study-Companion](https://github.com/confusedjpeg/Cascade-GenAI-Powered-Study-Companion)
+
+GenAI-powered personalized study companion
+
+<span style="color:#00ffff;">Python · PyQt · GenAI</span>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <span style="color:#00ff00">🧮</span> [Applied-Numerical-Methods](https://github.com/confusedjpeg/Applied-Numerical-Methods)
+
+Numerical methods taught in engineering undergrad degrees
+
+<span style="color:#00ffff;">Python</span> · ★ 1
+
+</td>
+<td width="50%">
+
+### <span style="color:#00ff00">🔒</span> [Citrust](https://github.com/confusedjpeg/Citrust)
+
+Evaluation framework for trust &amp; safety in AI systems
+
+<span style="color:#00ffff;">TypeScript</span>
+
+</td>
+</tr>
+</table>
 
 <br />
 

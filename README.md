@@ -1,91 +1,107 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0a0a0a,1a1a1a&height=200&section=header&text=SAANVI%20SHARMA&fontSize=70&fontColor=00fff0&fontAlignY=40&desc=Building%20at%20the%20intersection%20of%20AI%20&%20Design&descSize=18&descColor=39ff14&descAlignY=65" width="100%" />
+
+# <font color="#00fff0" face="Courier New, monospace" style="text-shadow: 0 0 10px #00fff0, 0 0 20px #00fff0;">SAANVI SHARMA</font>
+
+### <font color="#39ff14" face="Courier New, monospace" style="text-shadow: 0 0 5px #39ff14;">Building at the intersection of AI & Design</font>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00fff0&center=true&vCenter=true&width=600&lines=>+software_developer.init()%3B+> ui_ux_designer.init()%3B+> ai_enthusiast.compile()%3B+> building_cool_things...%3B" alt="Typing SVG" />
+
+```
+> software_developer.init();
+> ui_ux_designer.init();
+> ai_enthusiast.compile();
+> building_cool_things...;
+```
+
 </div>
 
 ---
 
-```bash
-> whoami
-```
+<div style="border: 2px solid #00fff0; border-radius: 5px; padding: 15px; background: #0a0a0a; box-shadow: 0 0 15px rgba(0, 255, 240, 0.3);">
 
-Software Developer & UI/UX Designer with a passion for building intelligent systems and crafting intuitive user experiences. Currently exploring the intersection of AI, healthcare, and creative technology.
+## <font color="#00fff0" face="Courier New, monospace" style="text-shadow: 0 0 8px #00fff0;">> whoami</font>
 
-```bash
-> cat skills.txt
-```
+<font color="#39ff14" face="Courier New, monospace">Software Developer & UI/UX Designer with a passion for building intelligent systems and crafting intuitive user experiences. Currently exploring the intersection of AI, healthcare, and creative technology.</font>
 
-**Languages & Frameworks**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
 </div>
 
-**AI & Backend**
+---
+
+<div style="border: 2px solid #39ff14; border-radius: 5px; padding: 15px; background: #0a0a0a; box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);">
+
+## <font color="#39ff14" face="Courier New, monospace" style="text-shadow: 0 0 8px #39ff14;">> cat skills.txt</font>
+
+### <font color="#00fff0" face="Courier New, monospace">Languages & Frameworks</font>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/langchain/00fff0" height="40" alt="langchain" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai/39ff14" height="40" alt="openai" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=39ff14" height="35" alt="python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="typescript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="css3" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="35" alt="csharp" />
 </div>
 
-**Tools & Design**
+### <font color="#00fff0" face="Courier New, monospace">AI & Backend</font>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=00fff0" height="35" alt="fastapi" />
+  <img src="https://img.shields.io/badge/LangChain-00fff0?style=for-the-badge&logo=langchain&logoColor=black" height="35" alt="langchain" />
+  <img src="https://img.shields.io/badge/OpenAI-39ff14?style=for-the-badge&logo=openai&logoColor=black" height="35" alt="openai" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="postgresql" />
 </div>
 
-```bash
-> ls projects/
-```
+### <font color="#00fff0" face="Courier New, monospace">Tools & Design</font>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=00fff0" height="35" alt="git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=39ff14" height="35" alt="figma" />
+</div>
+
+</div>
+
+---
+
+<div style="border: 2px solid #00fff0; border-radius: 5px; padding: 15px; background: #0a0a0a; box-shadow: 0 0 15px rgba(0, 255, 240, 0.3);">
+
+## <font color="#00fff0" face="Courier New, monospace" style="text-shadow: 0 0 8px #00fff0;">> ls projects/</font>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=confusedjpeg&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=confusedjpeg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="180" alt="languages graph" />
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| **BioVision-CellSegmenter** | AI-powered cell segmentation | HTML, AI |
+| **amt-piano-visualizer** | Interactive piano visualization | Python |
+| **multi-chat-dollhouse** | Multi-user chat application | Python |
+| **Auto_Presc_Module** | Automated prescription system | Python |
+| **Cascade-GenAI-Study-Companion** | AI-powered study assistant | Python, GenAI |
+| **Citrust** | AI evaluation framework | TypeScript |
+
 </div>
 
-```bash
-> connect --social
-```
+</div>
+
+---
+
+<div style="border: 2px solid #39ff14; border-radius: 5px; padding: 15px; background: #0a0a0a; box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);">
+
+## <font color="#39ff14" face="Courier New, monospace" style="text-shadow: 0 0 8px #39ff14;">> connect --social</font>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/saanvi-sharma-b12a27251/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00fff0&logoColor=0a0a0a&labelColor=0a0a0a&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="mailto:saanvi@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=39ff14&logoColor=0a0a0a&labelColor=0a0a0a&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=00fff0&logoColor=0a0a0a&labelColor=0a0a0a&style=for-the-badge" height="35" alt="discord" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00fff0)](https://www.linkedin.com/in/saanvi-sharma-b12a27251/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=39ff14)](mailto:saanvi@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=00fff0)](https://discord.com)
+
+</div>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/confusedjpeg/confusedjpeg/output/snake.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a1a1a,0a0a0a&height=50&section=footer" width="100%" />
+<sub><font color="#39ff14" face="Courier New, monospace" style="text-shadow: 0 0 5px #39ff14;">// system.ready()</font></sub>
+
 </div>

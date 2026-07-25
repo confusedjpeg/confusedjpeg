@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
+  <rect x="2" y="2" width="396" height="146" rx="8" fill="#0d1117" stroke="#00F0FF" stroke-width="1.5"/>
+  <text x="20" y="35" font-family="sans-serif" font-weight="bold" font-size="18" fill="#FF00FF">amt-piano-visualizer</text>
+  <text x="20" y="60" font-family="sans-serif" font-size="13" fill="#c9d1d9">Automatic music transcription system</text>
+  <text x="20" y="80" font-family="sans-serif" font-size="13" fill="#c9d1d9">and piano MIDI visualizer.</text>
+  <circle cx="25" cy="115" r="5" fill="#FF00FF" />
+  <text x="35" y="120" font-family="sans-serif" font-size="12" fill="#c9d1d9">Python</text>
+  <circle cx="95" cy="115" r="5" fill="#00F0FF" />
+  <text x="105" y="120" font-family="sans-serif" font-size="12" fill="#c9d1d9">Signal Processing</text>
+</svg>

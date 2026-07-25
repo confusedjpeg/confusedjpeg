@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
+  <rect x="2" y="2" width="396" height="146" rx="8" fill="#0d1117" stroke="#00F0FF" stroke-width="1.5"/>
+  <text x="20" y="35" font-family="sans-serif" font-weight="bold" font-size="18" fill="#FF00FF">Auto Prescription System</text>
+  <text x="20" y="60" font-family="sans-serif" font-size="13" fill="#c9d1d9">Healthcare AI system using RAG and graph</text>
+  <text x="20" y="80" font-family="sans-serif" font-size="13" fill="#c9d1d9">analytics for evidence-based prescriptions.</text>
+  <circle cx="25" cy="115" r="5" fill="#FF00FF" />
+  <text x="35" y="120" font-family="sans-serif" font-size="12" fill="#c9d1d9">Python</text>
+  <circle cx="95" cy="115" r="5" fill="#00F0FF" />
+  <text x="105" y="120" font-family="sans-serif" font-size="12" fill="#c9d1d9">TensorFlow</text>
+  <circle cx="190" cy="115" r="5" fill="#FF00FF" />
+  <text x="200" y="120" font-family="sans-serif" font-size="12" fill="#c9d1d9">Neo4j</text>
+</svg>

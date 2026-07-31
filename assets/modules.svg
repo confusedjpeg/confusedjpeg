@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 420" width="380" height="420">
+    <style>
+        .font-mono { font-family: "Courier New", Courier, monospace; }
+        .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+        .pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+    </style>
+    <rect width="100%" height="100%" fill="#131313"/>
+    
+    <!-- Outer Window -->
+    
+    <rect x="0" y="0" width="380" height="420" fill="#20201f" />
+    <!-- Borders -->
+    <rect x="0" y="0" width="380" height="2" fill="#3a4a49" />
+    <rect x="0" y="0" width="2" height="420" fill="#3a4a49" />
+    <rect x="0" y="418" width="380" height="2" fill="#0e0e0e" />
+    <rect x="378" y="0" width="2" height="420" fill="#0e0e0e" />
+    
+    
+    <!-- Title Bar -->
+    <rect x="8" y="8" width="364" height="24" fill="#ffd7f5"/>
+    <text x="16" y="24" fill="#380038" font-size="12" class="font-mono font-bold">LOADED_MODULES.SYS</text>
+    
+    <!-- Inner Area -->
+    
+    <rect x="8" y="36" width="364" height="376" fill="#0e0e0e" />
+    <!-- Borders -->
+    <rect x="8" y="36" width="364" height="2" fill="#0e0e0e" />
+    <rect x="8" y="36" width="2" height="376" fill="#0e0e0e" />
+    <rect x="8" y="410" width="364" height="2" fill="#3a4a49" />
+    <rect x="370" y="36" width="2" height="376" fill="#3a4a49" />
+    
+    
+    <g transform="translate(24, 56)">
+        <text x="0" y="10" fill="#b9cac9" font-size="10" class="font-mono">CORE_ENGINES</text>
+        <line x1="0" y1="16" x2="332" y2="16" stroke="#3a4a49" stroke-width="1"/>
+        
+        
+    <rect x="0" y="26" width="95" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="0" y="26" width="95" height="1" fill="#3a4a49" />
+    <rect x="0" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="0" y="49" width="95" height="1" fill="#0e0e0e" />
+    <rect x="94" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="8" y="42" fill="#00dddd" font-size="12" class="font-mono">Python_3.x</text>
+        
+        
+    <rect x="105" y="26" width="80" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="105" y="26" width="80" height="1" fill="#3a4a49" />
+    <rect x="105" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="105" y="49" width="80" height="1" fill="#0e0e0e" />
+    <rect x="184" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="113" y="42" fill="#00dddd" font-size="12" class="font-mono">Rust_1.7</text>
+        
+        
+    <rect x="195" y="26" width="50" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="195" y="26" width="50" height="1" fill="#3a4a49" />
+    <rect x="195" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="195" y="49" width="50" height="1" fill="#0e0e0e" />
+    <rect x="244" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="203" y="42" fill="#00dddd" font-size="12" class="font-mono">C++</text>
+    </g>
+    
+    <g transform="translate(24, 146)">
+        <text x="0" y="10" fill="#b9cac9" font-size="10" class="font-mono">NEURAL_NETS</text>
+        <line x1="0" y1="16" x2="332" y2="16" stroke="#3a4a49" stroke-width="1"/>
+        
+        
+    <rect x="0" y="26" width="75" height="24" fill="#ffabf3" />
+    <!-- Borders -->
+    <rect x="0" y="26" width="75" height="1" fill="#3a4a49" />
+    <rect x="0" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="0" y="49" width="75" height="1" fill="#0e0e0e" />
+    <rect x="74" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="8" y="42" fill="#5b005b" font-size="12" class="font-mono font-bold">PyTorch</text>
+        
+        
+    <rect x="85" y="26" width="95" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="85" y="26" width="95" height="1" fill="#3a4a49" />
+    <rect x="85" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="85" y="49" width="95" height="1" fill="#0e0e0e" />
+    <rect x="179" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="93" y="42" fill="#ffd7f5" font-size="12" class="font-mono">TensorFlow</text>
+        
+        
+    <rect x="190" y="26" width="60" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="190" y="26" width="60" height="1" fill="#3a4a49" />
+    <rect x="190" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="190" y="49" width="60" height="1" fill="#0e0e0e" />
+    <rect x="249" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="198" y="42" fill="#ffd7f5" font-size="12" class="font-mono">Keras</text>
+    </g>
+    
+    <g transform="translate(24, 236)">
+        <text x="0" y="10" fill="#b9cac9" font-size="10" class="font-mono">DATABASES</text>
+        <line x1="0" y1="16" x2="332" y2="16" stroke="#3a4a49" stroke-width="1"/>
+        
+        
+    <rect x="0" y="26" width="95" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="0" y="26" width="95" height="1" fill="#3a4a49" />
+    <rect x="0" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="0" y="49" width="95" height="1" fill="#0e0e0e" />
+    <rect x="94" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="8" y="42" fill="#00fbfb" font-size="12" class="font-mono">PostgreSQL</text>
+        
+        
+    <rect x="105" y="26" width="80" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="105" y="26" width="80" height="1" fill="#3a4a49" />
+    <rect x="105" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="105" y="49" width="80" height="1" fill="#0e0e0e" />
+    <rect x="184" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="113" y="42" fill="#00fbfb" font-size="12" class="font-mono">Pinecone</text>
+        
+        
+    <rect x="195" y="26" width="60" height="24" fill="#131313" />
+    <!-- Borders -->
+    <rect x="195" y="26" width="60" height="1" fill="#3a4a49" />
+    <rect x="195" y="26" width="1" height="24" fill="#3a4a49" />
+    <rect x="195" y="49" width="60" height="1" fill="#0e0e0e" />
+    <rect x="254" y="26" width="1" height="24" fill="#0e0e0e" />
+    
+        <text x="203" y="42" fill="#00fbfb" font-size="12" class="font-mono">Redis</text>
+    </g>
+    
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+    <style>
+        .font-mono { font-family: "Courier New", Courier, monospace; }
+        .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+        .pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+    </style>
+    <rect width="100%" height="100%" fill="#131313"/>
+    
+    <!-- Outer Window -->
+    
+    <rect x="0" y="0" width="800" height="120" fill="#20201f" />
+    <!-- Borders -->
+    <rect x="0" y="0" width="800" height="2" fill="#3a4a49" />
+    <rect x="0" y="0" width="2" height="120" fill="#3a4a49" />
+    <rect x="0" y="118" width="800" height="2" fill="#0e0e0e" />
+    <rect x="798" y="0" width="2" height="120" fill="#0e0e0e" />
+    
+    
+    <!-- Title Bar -->
+    <rect x="8" y="8" width="784" height="24" fill="#353535"/>
+    <text x="16" y="24" fill="#e5e2e1" font-size="12" class="font-mono font-bold">SYS.STATUS // DIAGNOSTICS</text>
+    
+    <!-- Inner Area -->
+    
+    <rect x="8" y="36" width="784" height="44" fill="#0e0e0e" />
+    <!-- Borders -->
+    <rect x="8" y="36" width="784" height="2" fill="#0e0e0e" />
+    <rect x="8" y="36" width="2" height="44" fill="#0e0e0e" />
+    <rect x="8" y="78" width="784" height="2" fill="#3a4a49" />
+    <rect x="790" y="36" width="2" height="44" fill="#3a4a49" />
+    
+    
+    <!-- Bar 1 -->
+    <g transform="translate(24, 52)">
+        <text x="0" y="12" fill="#b9cac9" font-size="12" class="font-mono">MEM.COFFEE_LEVEL</text>
+        <text x="210" y="12" fill="#00dddd" font-size="12" class="font-mono" text-anchor="end">88%</text>
+        
+    <rect x="0" y="20" width="210" height="16" fill="#20201f" />
+    <!-- Borders -->
+    <rect x="0" y="20" width="210" height="1" fill="#0e0e0e" />
+    <rect x="0" y="20" width="1" height="16" fill="#0e0e0e" />
+    <rect x="0" y="35" width="210" height="1" fill="#3a4a49" />
+    <rect x="209" y="20" width="1" height="16" fill="#3a4a49" />
+    
+        <rect x="2" y="22" width="182" height="12" fill="#00dddd" opacity="0.8"/>
+    </g>
+    
+    <!-- Bar 2 -->
+    <g transform="translate(290, 52)">
+        <text x="0" y="12" fill="#b9cac9" font-size="12" class="font-mono">BUGS_CRUSHED.LOG</text>
+        <text x="210" y="12" fill="#ffabf3" font-size="12" class="font-mono" text-anchor="end">1,402</text>
+        
+    <rect x="0" y="20" width="210" height="16" fill="#20201f" />
+    <!-- Borders -->
+    <rect x="0" y="20" width="210" height="1" fill="#0e0e0e" />
+    <rect x="0" y="20" width="1" height="16" fill="#0e0e0e" />
+    <rect x="0" y="35" width="210" height="1" fill="#3a4a49" />
+    <rect x="209" y="20" width="1" height="16" fill="#3a4a49" />
+    
+        <rect x="2" y="22" width="206" height="12" fill="#ffabf3" opacity="0.8"/>
+    </g>
+    
+    <!-- Bar 3 -->
+    <g transform="translate(560, 52)">
+        <text x="0" y="12" fill="#b9cac9" font-size="12" class="font-mono">FOCUS_MODE</text>
+        <text x="210" y="12" fill="#00fbfb" font-size="12" class="font-mono font-bold pulse" text-anchor="end">ENGAGED</text>
+        
+    <rect x="0" y="20" width="210" height="16" fill="#20201f" />
+    <!-- Borders -->
+    <rect x="0" y="20" width="210" height="1" fill="#0e0e0e" />
+    <rect x="0" y="20" width="1" height="16" fill="#0e0e0e" />
+    <rect x="0" y="35" width="210" height="1" fill="#3a4a49" />
+    <rect x="209" y="20" width="1" height="16" fill="#3a4a49" />
+    
+        <rect x="2" y="22" width="195" height="12" fill="#00fbfb" opacity="0.8"/>
+    </g>
+    
+</svg>
